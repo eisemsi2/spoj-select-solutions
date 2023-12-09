@@ -12,10 +12,15 @@ Print N lines, the length of shortest path which begins in city i and ends in ci
 Example Input
 
 5
-0 1 1 1 1 \n
+
+0 1 1 1 1 
+
 1 0 0 0 1
+
 0 0 1 1 0
+
 0 0 1 0 0
+
 0 0 0 1 0
 
 Example Output
