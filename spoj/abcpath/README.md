@@ -1,6 +1,6 @@
  Ada the Ladybug is on a trip in Bugindia. There are many cities and some uni-directional roads connecting them. Ada is wondering about the shortest path, which begins in a city and ends in the same city. Since Ada likes short trips, she asked you to find the length of such path for each city in Bugindia.
 
-# Input
+Input
 
 The first line will contain 0 < N ≤ 2000, the number of cities.
 
