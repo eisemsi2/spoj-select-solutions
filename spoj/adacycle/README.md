@@ -22,7 +22,7 @@ Example Output
 2\
 1\
 2\
-NO WAY\
+NO WAY
 
 Example Input
 
@@ -39,4 +39,4 @@ Example Output
 5\
 5\
 5\
-2\
+2
