@@ -8,10 +8,11 @@ Then N lines follow, each containing N integers 0 ≤ Hij ≤ 1. One means, that
 Output
 
 Print N lines, the length of shortest path which begins in city i and ends in city i. If the path doesn't exist, print "NO WAY" instead.
+
 Example Input
 
 5
-0 1 1 1 1
+0 1 1 1 1 \n
 1 0 0 0 1
 0 0 1 1 0
 0 0 1 0 0
