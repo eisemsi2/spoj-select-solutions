@@ -9,35 +9,35 @@ Output
 Print N lines, the length of shortest path which begins in city i and ends in city i. If the path doesn't exist, print "NO WAY" instead.
 Example Input
 
-5
-0 1 1 1 1
-1 0 0 0 1
-0 0 1 1 0
-0 0 1 0 0
-0 0 0 1 0
+5\
+0 1 1 1 1\
+1 0 0 0 1\
+0 0 1 1 0\
+0 0 1 0 0\
+0 0 0 1 0\
 
 Example Output
 
-2
-2
-1
-2
-NO WAY
+2\
+2\
+1\
+2\
+NO WAY\
 
 Example Input
 
-5
-0 1 0 0 1
-0 0 1 0 0
-0 0 0 1 0
-0 0 0 0 1
-1 0 0 0 0
+5\
+0 1 0 0 1\
+0 0 1 0 0\
+0 0 0 1 0\
+0 0 0 0 1\
+1 0 0 0 0\
 
 Example Output
 
-2
-5
-5
-5
-2
-
+2\
+5\
+5\
+5\
+2\
+\
