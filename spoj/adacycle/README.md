@@ -14,7 +14,7 @@ Example Input
 1 0 0 0 1\
 0 0 1 1 0\
 0 0 1 0 0\
-0 0 0 1 0\
+0 0 0 1 0
 
 Example Output
 
@@ -40,4 +40,3 @@ Example Output
 5\
 5\
 2\
-\
