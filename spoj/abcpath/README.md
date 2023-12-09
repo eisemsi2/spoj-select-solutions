@@ -26,25 +26,38 @@ Example Input
 Example Output
 
 2
+
 2
+
 1
+
 2
+
 NO WAY
 
 Example Input
 
 5
+
 0 1 0 0 1
+
 0 0 1 0 0
+
 0 0 0 1 0
+
 0 0 0 0 1
+
 1 0 0 0 0
 
 Example Output
 
 2
+
 5
+
 5
+
 5
+
 2
 
