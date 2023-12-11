@@ -1,43 +1,22 @@
-Ada the Ladybug is on a trip in Bugindia. There are many cities and some uni-directional roads connecting them. Ada is wondering about the shortest path, which begins in a city and ends in the same city. Since Ada likes short trips, she asked you to find the length of such path for each city in Bugindia.
+You will be given a 2-dimensional grid of letters. Find the length of the longest path of consecutive letters, starting at 'A'. Paths can step from one letter in the grid to any adjacent letter (horizontally, vertically, or diagonally).
+
+For example, in the following grid, there are several paths from 'A' to 'D', but none from 'A' to 'E':
+
 Input
 
-The first line will contain 0 < N ≤ 2000, the number of cities.
-
-Then N lines follow, each containing N integers 0 ≤ Hij ≤ 1. One means, that there is a road between i and j (zero means there isn't a road).
+Each test case will start with a line contains two integers H, W the height and width of the grid respectively 1 <= H, W <= 50. Then H lines follow each of W uppercase letters only. Input terminates with H = 0 and W = 0.
 Output
 
-Print N lines, the length of shortest path which begins in city i and ends in city i. If the path doesn't exist, print "NO WAY" instead.
-Example Input
+For each test case print “Case C: X” without quotes where C is the case number starting with 1 and X is the solution.\
+Example\
 
-5
-0 1 1 1 1
-1 0 0 0 1
-0 0 1 1 0
-0 0 1 0 0
-0 0 0 1 0
+Sample Input:\
+4 3\
+ABE\
+CFG\
+BDH\
+ABC\
+0 0\
 
-Example Output
-
-2
-2
-1
-2
-NO WAY
-
-Example Input
-
-5
-0 1 0 0 1
-0 0 1 0 0
-0 0 0 1 0
-0 0 0 0 1
-1 0 0 0 0
-
-Example Output
-
-2
-5
-5
-5
-2
-
+Sample Output:\
+Case 1: 4\
